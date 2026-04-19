@@ -1,0 +1,47 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.kotlin/
+
+# Build files
+*.apk
+*.ap_
+*.aab
+bin/
+gen/
+out/
+
+# Log files
+*.log
+
+# Android files
+.idea/
+*.iws
+*.ipr
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# User-specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf
+.idea/dictionaries
+.idea/vcs.xml
+
+# OS files
+.DS_Store
+Thumbs.db
